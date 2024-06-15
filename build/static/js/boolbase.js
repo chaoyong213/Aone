@@ -1,0 +1,1 @@
+function t(e){return e&&e.__esModule&&Object.prototype.hasOwnProperty.call(e,"default")?e.default:e}var u={trueFunc:function(){return!0},falseFunc:function(){return!1}};const r=t(u);export{r as a,u as b};
